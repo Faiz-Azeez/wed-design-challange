@@ -1,0 +1,34 @@
+button{
+background: blue;
+color: burlywood;
+}
+
+#para1
+{
+    color: chartreuse;
+
+}
+
+#para2
+{
+    color: rgb(255, 60, 0);
+    background: darkblue;
+
+}
+
+
+
+.content{
+    color: coral;
+    background-color: rgb(43, 37, 35);
+
+
+}
+
+
+.content1{
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 217, 0);
+
+
+}
