@@ -1,0 +1,35 @@
+.hedder{
+    width: 100%;
+    height: 150px;
+    background: orange;
+}
+
+
+.left-selection{
+width: 20%;
+float: left;
+height: 400px;
+background: lightcoral;
+}
+
+.right-selection{
+    width: 80%;
+    float: left;
+    height: 400px;
+    background: rgb(113, 112, 124);
+    }
+
+.footer{
+    height: 150px;
+    width: 100%;
+    background: rgb(36, 18, 199);
+}
+
+.content{
+
+height: 400px;
+}
+
+body{
+    margin: 0;
+}
