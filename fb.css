@@ -1,0 +1,141 @@
+.headder{
+
+background: #3b5998;
+width: 100%;
+height: 85px;
+}
+
+body{
+    margin: 0;
+
+}
+
+.logo{
+    
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+    
+
+}
+
+.logo-text{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 117px;
+    }
+
+
+.login-label{
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+}
+
+.login-ctrl{
+    margin-left: 115px;
+}
+
+.forget{
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+
+}
+
+.submit{
+    background: #4267b2;
+    color: #fff;
+    border-radius: 2px;
+    height: 20px;
+    border-color: #4267b2;
+    cursor: pointer;
+    
+}
+
+.submit:hover{
+    background: #0c2a57;
+
+}
+
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+    
+}
+
+.right-selection{
+    width: 39px;
+    float: left;
+}
+
+.main-body{
+    background: linear-gradient(white, #D3D8e8);
+    width: 100%;
+    height: 500px;
+}
+
+.image{
+    width: 465px;
+    padding-bottom: 30PX;
+   
+   
+}
+
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+
+}
+
+
+.form{
+    height: 24px;
+    width: 200px;
+    border-radius: 2px;
+}
+
+.form2{
+    height: 24px;
+    width: 408px;
+    border-radius: 2px;
+}
+
+
+.text{
+    font-weight: normal;
+}
+
+
+.button1{
+
+     width: 20%;
+        background:linear-gradient(#4CAF50, #3e9641); 
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      
+}
+
+.birthday{
+    font-size: large;
+}
+
+.font3{
+    font-size: small;
+    float: left;
+}
